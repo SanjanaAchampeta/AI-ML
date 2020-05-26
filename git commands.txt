@@ -1,0 +1,159 @@
+ 1  cd githubsample
+    2  cd OneDrive
+    3  cd Desktop
+    4  ls
+    5  cd githubsample
+    6  ls
+    7  git remote -v
+    8  git commit -m 'added hello.txt'
+    9  git commit -m 'added hello1.txt'
+   10  git commit -m 'added hello2.txt'
+   11  git remove-v
+   12  git commit -m 'added hello2.txt'
+   13  git commit -m 'added hello1.txt'
+   14  pwd
+   15  cd Desktop
+   16  cd OneDrive
+   17  cd Desktop
+   18  mkdir githubsample
+   19  ls
+   20  cd githubsample/
+   21  ls
+   22  git init
+   23  ls -a
+   24  git clone githubsample
+   25  git clone https://github.com/SanjanaAchampeta/github-sample
+   26  ls -a
+   27  git touch hello.txt
+   28   touch hello.txt
+   29  ls -a
+   30  echo {1..10}
+   31  echo {a..z}
+   32  echo {A..Z}
+   33  cat hello.txt
+   34  echo {1..10}
+   35  echo {A..Z}
+   36  echo {a..z}
+   37  cat hello.txt
+   38  nano hello.txt
+   39  nano hello.txt
+   40  nano hello.txt
+   41  cat hello.txt
+   42  ls
+   43  touch hello.txt
+   44  ls
+   45  git status
+   46  cd README.md
+   47  git log
+   48  touch hello1.txt
+   49  cat hello.txt
+   50  cat hello1.txt
+   51  nano hello1.txt
+   52  cat hello1.txt
+   53  cat hello1.txt
+   54  nano hello1.txt
+   55  cat hello1.txt
+   56  echo 100{a..z}
+   57  ls
+   58  ls github-sample/
+   59  ls -a
+   60  ls
+   61  cat hello1.txt
+   62  git config user.name SanjanaAchampeta
+   63  git config user.email sanjana.achampeta@gmail.com
+   64  ls
+   65  git add hello.txt
+   66  git status
+   67  touch hello2.txt
+   68  git status
+   69  git add hello2.txt
+   70  git status
+   71  git commit "hello2.txt"
+   72  cd OneDrive
+   73  cd Desktop
+   74  cd githubsample
+   75  ls
+   76  git commit -m 'added hello2.txt'
+   77  git commit -m 'added hello1.txt'
+   78  git commit -m 'added hello.txt'
+   79  ls
+   80  git status
+   81  git--version
+   82  git --version
+   83  git config --global user.name "Sanjana"
+   84  git config --global user.email sanju.rathan@gmail.com
+   85  config --list
+   86  git init
+   87  git status
+   88  mkdir git-test
+   89  cd git-test
+   90  git init
+   91  git status
+   92  pwd
+   93  cd ..
+   94  pwd
+   95  cd desktop
+   96  cd Desktop
+   97  cd git-test
+   98  git init
+   99  git status
+  100  git status
+  101  git init
+  102  git status
+  103  git init
+  104  git status
+  105  git add .
+  106  git status
+  107  git --version
+  108  cd desktop
+  109  cd git-test
+  110  cd DESKTOP
+  111  git status
+  112  sudo dnf intall asciidoc xmlto docbook2x
+  113  git --version
+  114  pwd
+  115  ls
+  116  ls -a
+  117  cd Desktop/
+  118  mkdir Desktop
+  119  cd Desktop
+  120  mkdir AIandML
+  121  ls
+  122  cd AIandML
+  123  touch Data.txt
+  124  ls
+  125  cat Data.txt
+  126  echo "AIandML" > Data.txt
+  127  cat Data.txt
+  128  nano Data.txt
+  129  nano Data.txt
+  130  cat Data.txt
+  131  nano test.txt
+  132  cat test.txt
+  133  rm test.txt
+  134  ls
+  135  git init
+  136  git status
+  137  git add Data.txt
+  138  git status
+  139  git commit -m "First Commit"
+  140  git config user.name
+  141  git config user.email
+  142  git status
+  143  nano Data.txt
+  144  git status
+  145  git add Data.txt
+  146  git commit -m "Second Commit"
+  147  git log
+  148  mkdir AI&ML
+  149  mkdir AI-ML
+  150  ls
+  151  git remote -help
+  152  git remote add AI-ML https://github.com/SanjanaAchampeta/AI-ML.git
+  153  git remote show
+  154  git remote -v
+  155  git pull AI-ML master
+  156  git push -u AI-ML
+  157  git push -f --set-upstream AI-ML master
+  158  git pull AI-ML master
+  159  history
